@@ -34,7 +34,7 @@
   <p>
     The API provides the following endpoints:
     
-  GET / - Retrieve a list of all data.
+  GET / products - Retrieve a list of all data.
 
       [
         {
